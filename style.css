@@ -1,0 +1,21 @@
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+  }
+
+* {font-family: Helvetica;}
+h1 {
+color: #009fe3;
+text-align: center;
+}
+
+img {
+    width: 60%;
+    max-height: 60%;
+    margin-left: 230px;
+}
+ul {margin-left: 330px;}
+p {margin-left: 50px;}
+h2 {margin-left: 50px;}
+.note {margin-left: 330px;}
